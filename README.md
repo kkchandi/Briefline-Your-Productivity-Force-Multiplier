@@ -1,5 +1,5 @@
 # Briefline-Your-Productivity-Force-Multiplier
-## Microsoft Global Hackathon 2025
+### [Microsoft Global Hackathon 2025 Project](https://innovationstudio.microsoft.com/hackathons/hackathon2025/project/95986)
 
 
 What if every individual—regardless of their role—had access to the same level of personalized strategic and productivity support as top executives? Imagine Briefline, your personalized Chief of Staff agent that understands your goals, role, aspirations, and strengths, helping you stay focused on the most critical deliverables, opportunities, and risks each day. One that helps you maximize your time, both solo and collaborative, with tailored recommendations to advance your goals through every meeting. One that even manages a team of agents—researchers, planners, and analysts—on your behalf. That keeps you learning with industry insights and best practices to sharpen your leadership. A true productivity force multiplier, enabling you to maximize your impact and achieve more.
