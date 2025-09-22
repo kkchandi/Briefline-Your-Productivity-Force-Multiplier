@@ -1,4 +1,4 @@
-# Briefline-Your-Productivity-Force-Multiplier
+# Briefline: Your Productivity Force Multiplier
 ### [Microsoft Global Hackathon 2025 Project](https://innovationstudio.microsoft.com/hackathons/hackathon2025/project/95986)
 
 
